@@ -1,13 +1,15 @@
 # edi3 UN Locode Specification
 
- * [Version 1.0](/docs/1.0/index.md)
- 
-Specification: [UN Locode 1.0](http://edi3.org/specs/edi3-unlocode/1.0/)
+[Specification](http://edi3.org/specs/edi3-unlocode/develop/) (latest working draft)
 
-Community discussion/support: [edi3.org](http://edi3.org)
+[Project administration](https://github.com/edi3/edi3-unlocode/wiki) (meeting minutes etc)
 
-Open source reference implementation: 
+[Mailing List](https://groups.google.com/a/edi3.org/forum/#!forum/unlocode/join)
 
-Test suite: 
+[Discussion channel](https://edi3.slack.com/messages/spec-edi3-unlocode) (slack channel)
 
-Live test endpoint: 
+Reference implementation: Not yet available
+
+Test suite: Not yet available
+
+Live test endpoint: Not yet available
